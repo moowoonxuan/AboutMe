@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="myName">Moo Woon Xuan</string>
+
+    <string name="bio">
+        <string name="bio">Hi, my name is Moo Woon Xuan.
+\n\nI love crypto.
+\n\n bitcoin ethereum.
+\nhold fomo.
+\n\n test.
+\n test.
+\n test.
+\n\n test .
+\n\nI\ test.
+\n test \n\n</string>
+    </string>
+    <string name="image_star">image star</string>
+</resources>
